@@ -47,11 +47,11 @@ Before you begin, ensure you have met the following requirements:
 
 ## Contributing
 
-Fork the project
-Create a new branch (git checkout -b feature/add-feature)
-Commit your changes (git commit -am 'Add a new feature')
-Push to the branch (git push origin feature/add-feature)
-Create a new Pull Request
+- Fork the project
+- Create a new branch (git checkout -b feature/add-feature)
+- Commit your changes (git commit -am 'Add a new feature')
+- Push to the branch (git push origin feature/add-feature)
+- Create a new Pull Request
 
 ## license
 
@@ -59,8 +59,8 @@ Create a new Pull Request
 
 ## Contact
 
-cpichac
+GitHub Username: cpichac
 -----------------
-carlos12pichard@outlook.com
+Email: carlos12pichard@outlook.com
 -----------------
 If there is any question rergarding the project please feel free to email me back at example@example.com
