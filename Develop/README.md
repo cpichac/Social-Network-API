@@ -9,7 +9,6 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -53,3 +52,15 @@ Create a new branch (git checkout -b feature/add-feature)
 Commit your changes (git commit -am 'Add a new feature')
 Push to the branch (git push origin feature/add-feature)
 Create a new Pull Request
+
+## license
+
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+
+## Contact
+
+cpichac
+-----------------
+carlos12pichard@outlook.com
+-----------------
+If there is any question rergarding the project please feel free to email me back at example@example.com
